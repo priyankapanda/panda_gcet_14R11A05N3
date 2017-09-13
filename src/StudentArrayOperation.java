@@ -12,7 +12,7 @@ public interface StudentArrayOperation {
 	 * @return the array of students
 	 * 
 	 */
-	Student[] getStudents();
+	Student[] getStudents()
 	
 
 	/**
@@ -23,7 +23,7 @@ public interface StudentArrayOperation {
 	 * 
 	 * @throws IllegalArgumentException
 	 */
-	void setStudents(Student[] students);
+	void setStudents(Student[] students)
 	
 
 	/**
